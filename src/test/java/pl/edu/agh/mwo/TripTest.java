@@ -15,5 +15,9 @@ public class TripTest {
 		assertEquals(1, trip.getPhotos().size());
 	}
 	
+	
+	
+	
+	
 
 }
